@@ -1,0 +1,39 @@
+
+.contador {
+    margin-top: 50px;
+    padding: 30px;
+    background-color: #120b25;
+    border: 2px solid #b026ff;
+    border-radius: 12px;
+    box-shadow: 0 0 15px #8b20ff;
+}
+
+.contador h2 {
+    color: #00d9ff;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.contador p {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 0 0 15px #8b20ff;
+    margin-bottom: 20px;
+}
+
+.contador button {
+    background-color: transparent;
+    color: #00d9ff;
+    border: 1px solid #00d9ff;
+    padding: 10px 20px;
+    margin: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.contador button:hover {
+    background-color: #00d9ff;
+    color: #08051a;
+    box-shadow: 0 0 15px #00d9ff;
+}

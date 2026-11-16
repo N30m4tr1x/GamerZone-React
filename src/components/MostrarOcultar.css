@@ -1,0 +1,31 @@
+
+.mostrar-ocultar {
+    margin-top: 30px;
+    padding: 25px;
+    background-color: #120b25;
+    border: 2px solid #b026ff;
+    border-radius: 12px;
+    box-shadow: 0 0 15px #8b20ff;
+}
+
+.mostrar-ocultar button {
+    background-color: transparent;
+    color: #00d9ff;
+    border: 1px solid #00d9ff;
+    padding: 12px 22px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.mostrar-ocultar button:hover {
+    background-color: #00d9ff;
+    color: #08051a;
+    box-shadow: 0 0 15px #00d9ff;
+}
+
+.mostrar-ocultar p {
+    color: #c5bdd6;
+    font-size: 16px;
+    line-height: 1.7;
+    margin-top: 20px;
+}
